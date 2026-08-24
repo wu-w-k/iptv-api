@@ -1,8 +1,9 @@
 🕘️更新时间,#genre#
-2026-08-24 17:06:38,url
+2026-08-24 18:10:39,https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=65797c44&amp%3BtxSecret=7e4590b2320037d7ce49ce9eac2dd6c0
 
 📺央视频道,#genre#
 
 📡卫视频道,#genre#
 
 ☘️广东频道,#genre#
+广州综合,https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=65797c44&amp%3BtxSecret=7e4590b2320037d7ce49ce9eac2dd6c0

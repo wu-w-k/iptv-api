@@ -1,1 +1,1 @@
-{"status":"completed_empty","updated_at":1787562398.1924381,"run_id":"330a7e6fcc8245498c0e84b39e3be44a","reason":"no_source_configured","message":"未生成频道数据：模板包含 74 个频道，但没有配置任何可用接口。"}
+{"status":"completed","updated_at":1787566239.3501844,"run_id":"cb43d6debc69441a8ba92057c136cbe1"}
